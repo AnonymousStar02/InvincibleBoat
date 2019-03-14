@@ -1,0 +1,4 @@
+name: InvincibleBoat
+version: 1.0
+main: boat.boat
+description: la barca non si rompe
